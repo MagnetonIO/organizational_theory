@@ -1,5 +1,3 @@
-# organizational_theory
-
 ## Introduction
 Welcome to the organizational_theory repository! This project aims to provide a comprehensive overview of various theories and models related to organizational behavior and management. The vision of this project is to serve as a valuable resource for students, researchers, and professionals interested in understanding the dynamics of organizations and improving their performance. 
 
